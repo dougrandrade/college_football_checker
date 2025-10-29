@@ -1,10 +1,11 @@
-# College Football Team Checker
+# College Football Team Schedule Checker
 
 A Python command-line tool to check college football team records, schedules, and game results using ESPN data.
 
 ## Usage
 \`\`\`bash
 python3 cfb_checker.py Navy
+
 python3 cfb_checker.py \"Ohio State\"
 \`\`\`
 
