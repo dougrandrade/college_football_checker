@@ -4,6 +4,8 @@
 """
 College Football Team Checker - Improved Version
 Uses ESPN's scoreboard API for reliable data
+Author: Doug Andrade (with Claude AI assistance)
+For: Naval Postgraduate School, CS3670 Secure Management of Systems
 """
 
 import requests
